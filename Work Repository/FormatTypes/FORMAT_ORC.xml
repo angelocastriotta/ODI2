@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="re3PrBhA8YKdaGIsFc6sTA==" exportKeySalt="cb537c56-c177-4916-914b-7b191505fc5d" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="RKZaotsyzEbZSg7vo9ng1w==" exportKeySalt="1dbb10c2-f66a-4f72-81eb-aefa42a2b286" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTableFormatType">
 		<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 16:03:40.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
@@ -9,10 +9,10 @@
 	<Field name="IndGenericType" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndHiveType" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndIsSeeded" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ITableFormatType" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 16:03:40.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:15:52.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[ORC]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
