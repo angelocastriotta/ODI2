@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="UwnVLALpxvsrzw01XIkQzw==" exportKeySalt="cf31f4e7-2c0f-47e2-818c-54dc3d582278" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpLoadPlan">
+		<Field name="CecLprBehavior" type="java.lang.String"><![CDATA[E]]></Field>
+	<Field name="CecLprPollIntv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 17:07:59.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[61657a97-8a3e-4f2f-b4b2-496ad6d5ff60]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndSessLog" type="java.lang.String"><![CDATA[AK]]></Field>
+	<Field name="IndStepLog" type="java.lang.String"><![CDATA[AK]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="IScenFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KeepLogHdays" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-24 17:05:43.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LoadPlanName" type="java.lang.String"><![CDATA[PARENT]]></Field>
+	<Field name="MaxCecLpr" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SessKeywords" type="java.lang.String">null</Field>
+	<Field name="TaskLogLevel" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[6e01163c-1001-4aee-b2db-fba10043466e]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LschemaName" type="java.lang.String">null</Field>
+	<Field name="RefreshSql" type="java.lang.String">null</Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[A]]></Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.P_LOADPLAN_NAME]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[d6f53dac-6621-4831-8b21-e6f8fca1702d]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LschemaName" type="java.lang.String">null</Field>
+	<Field name="RefreshSql" type="java.lang.String">null</Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[A]]></Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.P_LOADPLAN_FORCE_START]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[dabe91e0-3c8e-46ec-995e-b508ed04e93f]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LschemaName" type="java.lang.String">null</Field>
+	<Field name="RefreshSql" type="java.lang.String">null</Field>
+	<Field name="VarDatatype" type="java.lang.String"><![CDATA[A]]></Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.VAR1]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStep">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="ExceptBehavior" type="java.lang.String"><![CDATA[R]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[6a6db2c0-bfcd-4a17-a663-0d4a5894796f]]></Field>
+	<Field name="IndEnabled" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[76]]></Field>
+	<Field name="ILpStepExcept" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LagentName" type="java.lang.String">null</Field>
+	<Field name="LpStepName" type="java.lang.String"><![CDATA[PARENT]]></Field>
+	<Field name="LpStepType" type="java.lang.String"><![CDATA[SE]]></Field>
+	<Field name="MaxParError" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ParILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="RestartType" type="java.lang.String"><![CDATA[SF]]></Field>
+	<Field name="ScenName" type="java.lang.String">null</Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenVersion" type="java.lang.String">null</Field>
+	<Field name="SessKeywords" type="java.lang.String">null</Field>
+	<Field name="StepOrder" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepPriority" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="StepTimeout" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String">null</Field>
+	<Field name="VarOp" type="java.lang.String">null</Field>
+	<Field name="VarValue" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStep">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="ExceptBehavior" type="java.lang.String"><![CDATA[R]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[375001a4-fdd9-4571-b103-1b30f26cf6eb]]></Field>
+	<Field name="IndEnabled" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[77]]></Field>
+	<Field name="ILpStepExcept" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LagentName" type="java.lang.String">null</Field>
+	<Field name="LpStepName" type="java.lang.String"><![CDATA[CHILD_1]]></Field>
+	<Field name="LpStepType" type="java.lang.String"><![CDATA[RS]]></Field>
+	<Field name="MaxParError" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ParILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[76]]></Field>
+	<Field name="RestartType" type="java.lang.String"><![CDATA[RN]]></Field>
+	<Field name="ScenName" type="java.lang.String"><![CDATA[START_LOAD_PLAN_PRC]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenVersion" type="java.lang.String"><![CDATA[001]]></Field>
+	<Field name="SessKeywords" type="java.lang.String">null</Field>
+	<Field name="StepOrder" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepPriority" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepTimeout" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String">null</Field>
+	<Field name="VarOp" type="java.lang.String">null</Field>
+	<Field name="VarValue" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStepVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[2ec54dcf-5ed0-4d86-a0d5-7887958bc6b6]]></Field>
+	<Field name="IndRefresh" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[77]]></Field>
+	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.P_LOADPLAN_NAME]]></Field>
+	<Field name="VarValue" type="java.lang.String"><![CDATA[CHILD_1]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[8300]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[16#DEMO_LP.P_LOADPLAN_NAME]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_LOADPLAN : PARENT #SNP_LPVAR : DEMO_LP.P_LOADPLAN_NAME]]></Field>
+ <Field name="GlobalId" type="java.lang.String"><![CDATA[6e01163c-1001-4aee-b2db-fba10043466e]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStep">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="ExceptBehavior" type="java.lang.String"><![CDATA[R]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[0eef14c1-0532-4a8c-8ca1-0a50387918dc]]></Field>
+	<Field name="IndEnabled" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[78]]></Field>
+	<Field name="ILpStepExcept" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LagentName" type="java.lang.String">null</Field>
+	<Field name="LpStepName" type="java.lang.String"><![CDATA[CHILD_2]]></Field>
+	<Field name="LpStepType" type="java.lang.String"><![CDATA[RS]]></Field>
+	<Field name="MaxParError" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ParILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[76]]></Field>
+	<Field name="RestartType" type="java.lang.String"><![CDATA[RN]]></Field>
+	<Field name="ScenName" type="java.lang.String"><![CDATA[START_LOAD_PLAN_PRC]]></Field>
+	<Field name="ScenNo" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ScenVersion" type="java.lang.String"><![CDATA[001]]></Field>
+	<Field name="SessKeywords" type="java.lang.String">null</Field>
+	<Field name="StepOrder" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="StepPriority" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepTimeout" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String">null</Field>
+	<Field name="VarOp" type="java.lang.String">null</Field>
+	<Field name="VarValue" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStepVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[7a123761-e69c-49da-85ec-9fea51d28843]]></Field>
+	<Field name="IndRefresh" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[78]]></Field>
+	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.P_LOADPLAN_NAME]]></Field>
+	<Field name="VarValue" type="java.lang.String"><![CDATA[CHILD_2]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[8300]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[16#DEMO_LP.P_LOADPLAN_NAME]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_LOADPLAN : PARENT #SNP_LPVAR : DEMO_LP.P_LOADPLAN_NAME]]></Field>
+ <Field name="GlobalId" type="java.lang.String"><![CDATA[6e01163c-1001-4aee-b2db-fba10043466e]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLpStepVar">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[92bd8083-cf17-4a7b-a382-83866b2f1eb1]]></Field>
+	<Field name="IndRefresh" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ILoadPlan" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="ILpStep" type="com.sunopsis.sql.DbInt"><![CDATA[76]]></Field>
+	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VarLongValue" type="java.lang.String">null</Field>
+	<Field name="VarName" type="java.lang.String"><![CDATA[DEMO_LP.VAR1]]></Field>
+	<Field name="VarValue" type="java.lang.String"><![CDATA[1]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[8300]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[16#DEMO_LP.VAR1]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_LOADPLAN : PARENT #SNP_LPVAR : DEMO_LP.VAR1]]></Field>
+ <Field name="GlobalId" type="java.lang.String"><![CDATA[dabe91e0-3c8e-46ec-995e-b508ed04e93f]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LOADPLAN.16]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[61657a97-8a3e-4f2f-b4b2-496ad6d5ff60]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LPSTEP.16.76]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[6a6db2c0-bfcd-4a17-a663-0d4a5894796f]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT.PARENT]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN.SNP_LPSTEP]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6.6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LPSTEP.16.77]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[375001a4-fdd9-4571-b103-1b30f26cf6eb]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT.CHILD_1]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN.SNP_LPSTEP]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6.7]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LPVAR.16.DEMO_LP.P_LOADPLAN_NAME]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[6e01163c-1001-4aee-b2db-fba10043466e]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT.DEMO_LP.P_LOADPLAN_NAME]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN.SNP_LPVAR]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6.23]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LPSTEP.16.78]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[0eef14c1-0532-4a8c-8ca1-0a50387918dc]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT.CHILD_2]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN.SNP_LPSTEP]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6.7]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_LPVAR.16.DEMO_LP.VAR1]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[dabe91e0-3c8e-46ec-995e-b508ed04e93f]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[PARENT.DEMO_LP.VAR1]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_LOADPLAN.SNP_LPVAR]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6.12]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[53bd2375-9efe-4f62-8c01-27795100be12]]></Field>
+	<Field name="RepGuid" type="java.lang.String">null</Field>
+	<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1489071324211]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[747a007d-ef4b-441c-b1f7-fb9b5ee7be4f]]></Field>
+	<Field name="RepGuid" type="java.lang.String">null</Field>
+	<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1489071712728]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[02b4db22-d3df-403a-b9bc-0be7d72c1648]]></Field>
+	<Field name="RepGuid" type="java.lang.String">null</Field>
+	<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1489071566338]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[90179ec7-736c-42ab-866f-a66799dc1862]]></Field>
+	<Field name="RepGuid" type="java.lang.String">null</Field>
+	<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1489071636329]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.05]]></Field>
+</Object>
+</SunopsisExport>
