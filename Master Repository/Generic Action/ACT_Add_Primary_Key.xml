@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="0taYs226T0HZnOYFwJ7I5w==" exportKeySalt="3d1155c2-1dc6-42ae-9f9e-8a1a2f86aeec" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="GYsJ2S8oT5x8Q1jYUKkCLw==" exportKeySalt="76f03f1f-a424-4f76-9d42-8e67745ce4ad" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpAction">
 		<Field name="ActionName" type="java.lang.String"><![CDATA[Add Primary Key]]></Field>
 	<Field name="ActionType" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
@@ -11,8 +11,8 @@
 	<Field name="IAction" type="com.sunopsis.sql.DbInt"><![CDATA[53]]></Field>
 	<Field name="IGrpAction" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[4387]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 15:49:33.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:11:29.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpLineAction">
 		<Field name="ConnectId" type="java.lang.String">null</Field>
@@ -26,8 +26,8 @@
 	<Field name="IsolLevel" type="java.lang.String">null</Field>
 	<Field name="IAction" type="com.sunopsis.sql.DbInt"><![CDATA[53]]></Field>
 	<Field name="ITxtAction" type="com.sunopsis.sql.DbInt"><![CDATA[4386]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 15:49:33.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:11:29.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LineActionName" type="java.lang.String"><![CDATA[Add Primary Key]]></Field>
 	<Field name="OrdAction" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
 </Object>
