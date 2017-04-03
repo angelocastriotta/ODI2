@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="T3vvaUG9h68XG/UNX0vZRQ==" exportKeySalt="c7e4c9ff-0ee9-4027-b106-786e3b47daca" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="IUBBWF7lue817lTkbR0aTQ==" exportKeySalt="2520dd6a-8a16-4d0d-ae32-dea979ef4439" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpAction">
 		<Field name="ActionName" type="java.lang.String"><![CDATA[Modify Column Comment]]></Field>
 	<Field name="ActionType" type="com.sunopsis.sql.DbInt"><![CDATA[21]]></Field>
@@ -11,8 +11,8 @@
 	<Field name="IAction" type="com.sunopsis.sql.DbInt"><![CDATA[47]]></Field>
 	<Field name="IGrpAction" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[4381]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 15:49:31.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:11:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpLineAction">
 		<Field name="ConnectId" type="java.lang.String">null</Field>
@@ -26,8 +26,8 @@
 	<Field name="IsolLevel" type="java.lang.String">null</Field>
 	<Field name="IAction" type="com.sunopsis.sql.DbInt"><![CDATA[47]]></Field>
 	<Field name="ITxtAction" type="com.sunopsis.sql.DbInt"><![CDATA[4380]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 15:49:31.0]]></Field>
-	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:11:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LineActionName" type="java.lang.String"><![CDATA[Modify Comment]]></Field>
 	<Field name="OrdAction" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 </Object>
