@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="P7AmYVkLGh+/wBSnf7pPcw==" exportKeySalt="403b21cf-3667-4483-add0-d035c712449a" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="ufSfPgvVGI6Iy/kc1tRNmw==" exportKeySalt="d9b8b824-b4e2-477e-a046-85ac134ef824" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpLagent">
 		<Field name="EngineType" type="java.lang.String"><![CDATA[ODI.OA]]></Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 17:06:43.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[419810a9-6152-4f10-bad2-fec080b8fb60]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
 	<Field name="ILagent" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
 	<Field name="LagentName" type="java.lang.String"><![CDATA[AGENT_PROD]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 15:10:56.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 16:07:20.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.DwgExportSummary">
